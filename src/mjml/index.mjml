@@ -35,7 +35,7 @@
     <mj-section padding="24px 30px" mj-class="bgT1">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image align="left" padding="0" width="130px" src="./images/NetgearStoreWhite.png" alt="logo Netgear en noir"/>
+          <mj-image align="left" padding="0" width="130px" src="./images/netgearBusinessW.png" alt="logo Netgear en noir"/>
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
@@ -43,11 +43,19 @@
       </mj-group>
     </mj-section>
     <mj-section>
+      <mj-column> 
+        <mj-text>Nouvelles promotions partenaires </mj-text>
+        <mj-text>3ème trimestre</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
       <mj-column>
         <mj-image src="./images/illustrationWAX214.png" alt=""/>
         <mj-text>Un WiFi puissant et abordable</mj-text>
         <mj-text>Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section>
       <mj-group>
         <mj-column>
           <mj-image src="./images/wax214.png" alt=""/>
@@ -73,6 +81,8 @@
         <mj-text>Les switches NETGEAR non manageables sont les plus populaires auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
         <mj-text>Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2. Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section>
       <mj-group>
         <mj-column>
           <mj-image src="./images/gs108e.png" alt=""/>
