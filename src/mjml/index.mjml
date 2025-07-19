@@ -14,12 +14,12 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
       <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
-      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
+      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" font-weight="300"/>
+      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -45,15 +45,15 @@
     </mj-section>
     <mj-section>
       <mj-column> 
-        <mj-text padding="0" align="center">Nouvelles promotions partenaires </mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300" line-height="45px">Nouvelles promotions partenaires </mj-text>
         <mj-text padding="0" align="center">3e trimestre</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationWAX214.png" alt=""/>
-        <mj-text padding="0" align="center">Un WiFi puissant et abordable</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Un WiFi puissant et abordable</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -78,9 +78,9 @@
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationGS108E.png" alt=""/>
-        <mj-text padding="0" align="center">Des Switches de pointe</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400">Les switches NETGEAR non manageables sont les plus populaires auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400">Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2. Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Des Switches de pointe</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">Les switches NETGEAR non manageables sont les plus populaires auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2. Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -103,8 +103,8 @@
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationGS308P.png" alt=""></mj-image>
-        <mj-text padding="0" align="center" mj-class="T14-400">Alimentez vos périphériques via le PoE</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400">La technologie PoE fournit une alimentation électrique et une connectivité réseau pour les périphériques PoE via un câble réseau. Vous pouvez placer des appareils tels que des points d'accès WiFi, des caméras IP, des téléphones, des téléphones IP, des éclairages LED et des systèmes de sécurité, ... où bon vous semble car vous n'avez plus besoin d'alimentation électrique à proximité. Ces appareils sont alimentés et manageables via nos switches PoE, que ce soit au bureau ou à la maison.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Alimentez vos périphériques via le PoE</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">La technologie PoE fournit une alimentation électrique et une connectivité réseau pour les périphériques PoE via un câble réseau. Vous pouvez placer des appareils tels que des points d'accès WiFi, des caméras IP, des téléphones, des téléphones IP, des éclairages LED et des systèmes de sécurité, ... où bon vous semble car vous n'avez plus besoin d'alimentation électrique à proximité. Ces appareils sont alimentés et manageables via nos switches PoE, que ce soit au bureau ou à la maison.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -127,8 +127,8 @@
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/29stockage.png" alt=""/>
-        <mj-text padding="0" align="center">Protégez vos données</mj-text>
-        <mj-text padding="0" align="center">Toutes les entreprises produisent des données pour différents aspects de leur activité. La sauvegarde de ces données est essentielle pour tout plan opérationnel ou de continuité d'activité. Si vous recherchez une solution de sauvegarde de données, ReadyNAS est la meilleure alternative pour les PME ayant un budget limité. Hautement évolutives, ces solutions sont fiables et offrent une sécurité exceptionnelle.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Protégez vos données</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">Toutes les entreprises produisent des données pour différents aspects de leur activité. La sauvegarde de ces données est essentielle pour tout plan opérationnel ou de continuité d'activité. Si vous recherchez une solution de sauvegarde de données, ReadyNAS est la meilleure alternative pour les PME ayant un budget limité. Hautement évolutives, ces solutions sont fiables et offrent une sécurité exceptionnelle.</mj-text>
         <mj-button>retrouvez toutes nos offres sur le stockage</mj-button>
         <mj-text padding="0" align="center">* Offres spéciales partenaires valables chez les distributeurs officiels ALSO, INGRAM, EXERTIS, TECH DATA jusqu'au 24/09/2021 dans la limite des stocks facturables. Non cumulables avec d'autres offres spéciales. Ces offres peuvent être arrêtées à tout moment par NETGEAR. Prix d'achat revendeur promotionnels indicatifs, les distributeurs NETGEAR sont libres de fixer leur prix de revente.</mj-text>
       </mj-column>
