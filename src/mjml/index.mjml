@@ -15,10 +15,11 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
       <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" font-weight="300"/>
+      <mj-class name="T27-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="27px" font-weight="300"/>
+      <mj-class name="T24-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" font-weight="500"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
@@ -46,7 +47,7 @@
     <mj-section>
       <mj-column> 
         <mj-text padding="0" align="center" mj-class="T35-300" line-height="45px">Nouvelles promotions partenaires </mj-text>
-        <mj-text padding="0" align="center">3e trimestre</mj-text>
+        <mj-text padding="0" align="center" mj-class="T27-300" line-height="45px">3e trimestre</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -62,12 +63,12 @@
           <mj-image src="./images/wax214.png" alt=""/>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text padding="0">wax124</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">WiFi 6 AX1800 1.8 Gbit</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Dual band (2.4 GHz et 5.0 GHz)</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Port Ethernet Gigabit</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Alimentable en PoE</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Garantie : 5ans</mj-text>
+          <mj-text padding="0" mj-class="T24-500" line-height="28px"><span style="text-transform:uppercase;">wax124</span></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>WiFi 6 AX1800</strong> 1.8 Gbit/s</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Dual band</strong> (2.4 GHz et 5.0 GHz)</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Port Ethernet <strong>Gigabit</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Alimentable en <strong>PoE</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Garantie</strong> : 5ans</mj-text>
           <mj-text padding="0" mj-class="T14-400" line-height="20px">Référence : WAX214-100EUS</mj-text>
         </mj-column>
       </mj-group>
@@ -89,10 +90,11 @@
           <mj-image src="./images/gs108e.png" alt=""/>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text padding="0">gs108e</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">8 ports Gigabit</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Gestion des vlans</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Garantie : à vie</mj-text>
+          <mj-text padding="0" mj-class="T24-500" line-height="28px"><span style="text-transform:uppercase;">gs108e</span></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">8 ports <strong>Gigabit</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Fonctionnalités <strong>d</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Gestion des <strong>VLANs</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Garantie :</strong> à vie</mj-text>
           <mj-text padding="0" mj-class="T14-400" line-height="20px">Référence : gs108e-100eus</mj-text>
         </mj-column>
       </mj-group>
@@ -113,10 +115,11 @@
           <mj-image src="./images/gs308p.png" alt=""></mj-image>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">gs308p</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">8 ports Gigabit dont 4 PoE</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Budget PoE : 53 W</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Garantie : 3 ans</mj-text>
+          <mj-text padding="0" mj-class="T24-500" line-height="28px"><span style="text-transform:uppercase;">gs308p</span></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">8 ports <strong>Gigabit dont 4 PoE</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Budget PoE :</strong> 53 W</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Non manageable</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Garantie :</strong> 3 ans</mj-text>
           <mj-text padding="0" mj-class="T14-400" line-height="20px">Référence : GS308P-100EUS</mj-text>
         </mj-column>
       </mj-group>
