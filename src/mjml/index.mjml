@@ -19,6 +19,7 @@
       <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
+      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -52,22 +53,22 @@
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationWAX214.png" alt=""/>
         <mj-text padding="0" align="center">Un WiFi puissant et abordable</mj-text>
-        <mj-text padding="0" align="center">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-group width="100%">
-        <mj-column>
+        <mj-column vertical-align="middle">
           <mj-image src="./images/wax214.png" alt=""/>
         </mj-column>
-        <mj-column>
-          <mj-text>wax124</mj-text>
-          <mj-text>WiFi 6 AX1800 1.8 Gbit</mj-text>
-          <mj-text>Dual band (2.4 GHz et 5.0 GHz)</mj-text>
-          <mj-text>Port Ethernet Gigabit</mj-text>
-          <mj-text>Alimentable en PoE</mj-text>
-          <mj-text>Garantie : 5ans</mj-text>
-          <mj-text>Référence : WAX214-100EUS</mj-text>
+        <mj-column vertical-align="middle">
+          <mj-text padding="0">wax124</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">WiFi 6 AX1800 1.8 Gbit</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Dual band (2.4 GHz et 5.0 GHz)</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Port Ethernet Gigabit</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Alimentable en PoE</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Garantie : 5ans</mj-text>
+          <mj-text padding="0" mj-class="T14-400" line-height="20px">Référence : WAX214-100EUS</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
