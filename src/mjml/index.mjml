@@ -44,19 +44,19 @@
     </mj-section>
     <mj-section>
       <mj-column> 
-        <mj-text>Nouvelles promotions partenaires </mj-text>
-        <mj-text>3ème trimestre</mj-text>
+        <mj-text padding="0" align="center">Nouvelles promotions partenaires </mj-text>
+        <mj-text padding="0" align="center">3e trimestre</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="./images/illustrationWAX214.png" alt=""/>
-        <mj-text>Un WiFi puissant et abordable</mj-text>
-        <mj-text>Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
+        <mj-image padding="0" width="700px" src="./images/illustrationWAX214.png" alt=""/>
+        <mj-text padding="0" align="center">Un WiFi puissant et abordable</mj-text>
+        <mj-text padding="0" align="center">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-group>
+      <mj-group width="100%">
         <mj-column>
           <mj-image src="./images/wax214.png" alt=""/>
         </mj-column>
@@ -70,20 +70,20 @@
           <mj-text>Référence : WAX214-100EUS</mj-text>
         </mj-column>
       </mj-group>
-      <mj-column>
+      <mj-column width="100%">
         <mj-button>retrouvez toutes nos offres wifi</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="./images/illustrationGS108E.png" alt=""/>
-        <mj-text>Des Switches de pointe</mj-text>
-        <mj-text>Les switches NETGEAR non manageables sont les plus populaires auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
-        <mj-text>Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2. Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
+        <mj-image padding="0" width="700px" src="./images/illustrationGS108E.png" alt=""/>
+        <mj-text padding="0" align="center">Des Switches de pointe</mj-text>
+        <mj-text padding="0" align="center">Les switches NETGEAR non manageables sont les plus populaires auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
+        <mj-text padding="0" align="center">Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2. Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-group>
+      <mj-group width="100%">
         <mj-column>
           <mj-image src="./images/gs108e.png" alt=""/>
         </mj-column>
@@ -95,19 +95,19 @@
           <mj-text>Référence : gs108e-100eus</mj-text>
         </mj-column>
       </mj-group>
-      <mj-column>
+      <mj-column width="100%">
         <mj-button>retrouvez toutes nos offres sur le switching</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="./images/illustrationGS308P.png" alt=""></mj-image>
-        <mj-text>Alimentez vos périphériques via le PoE</mj-text>
-        <mj-text>La technologie PoE fournit une alimentation électrique et une connectivité réseau pour les périphériques PoE via un câble réseau. Vous pouvez placer des appareils tels que des points d'accès WiFi, des caméras IP, des téléphones, des téléphones IP, des éclairages LED et des systèmes de sécurité, ... où bon vous semble car vous n'avez plus besoin d'alimentation électrique à proximité. Ces appareils sont alimentés et manageables via nos switches PoE, que ce soit au bureau ou à la maison.</mj-text>
+        <mj-image padding="0" width="700px" src="./images/illustrationGS308P.png" alt=""></mj-image>
+        <mj-text padding="0" align="center">Alimentez vos périphériques via le PoE</mj-text>
+        <mj-text padding="0" align="center">La technologie PoE fournit une alimentation électrique et une connectivité réseau pour les périphériques PoE via un câble réseau. Vous pouvez placer des appareils tels que des points d'accès WiFi, des caméras IP, des téléphones, des téléphones IP, des éclairages LED et des systèmes de sécurité, ... où bon vous semble car vous n'avez plus besoin d'alimentation électrique à proximité. Ces appareils sont alimentés et manageables via nos switches PoE, que ce soit au bureau ou à la maison.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section> 
-      <mj-group>
+    <mj-section>
+      <mj-group width="100%">
         <mj-column>
           <mj-image src="./images/gs308p.png" alt=""></mj-image>
         </mj-column>
@@ -119,17 +119,17 @@
           <mj-text>Référence : GS308P-100EUS</mj-text>
         </mj-column>
       </mj-group>
-      <mj-column>
+      <mj-column width="100%">
         <mj-button>retrouvez toutes nos offres sur le switching poe</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="./images/29stockage.png" alt=""/>
-        <mj-text>Protégez vos données</mj-text>
-        <mj-text>Toutes les entreprises produisent des données pour différents aspects de leur activité. La sauvegarde de ces données est essentielle pour tout plan opérationnel ou de continuité d'activité. Si vous recherchez une solution de sauvegarde de données, ReadyNAS est la meilleure alternative pour les PME ayant un budget limité. Hautement évolutives, ces solutions sont fiables et offrent une sécurité exceptionnelle.</mj-text>
+        <mj-image padding="0" width="700px" src="./images/29stockage.png" alt=""/>
+        <mj-text padding="0" align="center">Protégez vos données</mj-text>
+        <mj-text padding="0" align="center">Toutes les entreprises produisent des données pour différents aspects de leur activité. La sauvegarde de ces données est essentielle pour tout plan opérationnel ou de continuité d'activité. Si vous recherchez une solution de sauvegarde de données, ReadyNAS est la meilleure alternative pour les PME ayant un budget limité. Hautement évolutives, ces solutions sont fiables et offrent une sécurité exceptionnelle.</mj-text>
         <mj-button>retrouvez toutes nos offres sur le stockage</mj-button>
-        <mj-text>* Offres spéciales partenaires valables chez les distributeurs officiels ALSO, INGRAM, EXERTIS, TECH DATA jusqu'au 24/09/2021 dans la limite des stocks facturables. Non cumulables avec d'autres offres spéciales. Ces offres peuvent être arrêtées à tout moment par NETGEAR. Prix d'achat revendeur promotionnels indicatifs, les distributeurs NETGEAR sont libres de fixer leur prix de revente.</mj-text>
+        <mj-text padding="0" align="center">* Offres spéciales partenaires valables chez les distributeurs officiels ALSO, INGRAM, EXERTIS, TECH DATA jusqu'au 24/09/2021 dans la limite des stocks facturables. Non cumulables avec d'autres offres spéciales. Ces offres peuvent être arrêtées à tout moment par NETGEAR. Prix d'achat revendeur promotionnels indicatifs, les distributeurs NETGEAR sont libres de fixer leur prix de revente.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
