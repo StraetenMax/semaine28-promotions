@@ -29,6 +29,8 @@
       <mj-class name="bgW" background-color="#ffffff"/>
       <mj-class name="cB" color="#00A4DE"/>
       <mj-class name="bgB" background-color="#00A4DE"/>
+      <mj-class name="cP" color="#73389B"/>
+      <mj-class name="bgP" background-color="#73389B"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -68,62 +70,62 @@
           <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">Port Ethernet <strong>Gigabit</strong></mj-text>
           <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">Alimentable en <strong>PoE</strong></mj-text>
           <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Garantie :</strong> 5ans</mj-text>
-          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Référence :</strong> WAX214-100EUS</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cB" line-height="20px"><strong>Référence :</strong> WAX214-100EUS</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
         <mj-button mj-class="bgB">retrouvez toutes nos offres wifi</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationGS108E.png" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T35-300 cB" line-height="42px">Des Switches de pointe</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px"><strong>Les switches NETGEAR non manageables sont les plus populaires</strong> auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px"><strong>Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2.</strong> Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300 cP" line-height="42px">Des Switches de pointe</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400 cT1" line-height="18px"><strong>Les switches NETGEAR non manageables sont les plus populaires</strong> auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400 cT1" line-height="18px"><strong>Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2.</strong> Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-group width="100%">
         <mj-column vertical-align="middle">
           <mj-image src="./images/gs108e.png" alt=""/>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text padding="0" mj-class="T24-500" line-height="28px"><span style="text-transform:uppercase;">gs108e</span></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">8 ports <strong>Gigabit</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Fonctionnalités <strong>d</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Gestion des <strong>VLANs</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Garantie :</strong> à vie</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Référence :</strong> gs108e-100eus</mj-text>
+          <mj-text padding="0" mj-class="T24-500 cP" line-height="28px"><span style="text-transform:uppercase;">gs108e</span></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">8 ports <strong>Gigabit</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">Fonctionnalités <strong>d</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">Gestion des <strong>VLANs</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Garantie :</strong> à vie</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cP" line-height="20px"><strong>Référence :</strong> gs108e-100eus</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
-        <mj-button>retrouvez toutes nos offres sur le switching</mj-button>
+        <mj-button mj-class="bgP">retrouvez toutes nos offres sur le switching</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationGS308P.png" alt=""></mj-image>
-        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Alimentez vos périphériques via le PoE</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">La technologie PoE fournit une <strong>alimentation électrique et une connectivité réseau</strong> pour les périphériques PoE via un câble réseau. Vous pouvez placer des appareils tels que des points d'accès WiFi, des caméras IP, des téléphones, des téléphones IP, des éclairages LED et des systèmes de sécurité, ... où bon vous semble car vous n'avez plus besoin d'alimentation électrique à proximité. Ces appareils sont alimentés et manageables via nos switches PoE, que ce soit au bureau ou à la maison.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300 cP" line-height="42px">Alimentez vos périphériques via le PoE</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400 cT1" line-height="18px">La technologie PoE fournit une <strong>alimentation électrique et une connectivité réseau</strong> pour les périphériques PoE via un câble réseau. Vous pouvez placer des appareils tels que des points d'accès WiFi, des caméras IP, des téléphones, des téléphones IP, des éclairages LED et des systèmes de sécurité, ... où bon vous semble car vous n'avez plus besoin d'alimentation électrique à proximité. Ces appareils sont alimentés et manageables via nos switches PoE, que ce soit au bureau ou à la maison.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-group width="100%">
         <mj-column vertical-align="middle">
           <mj-image src="./images/gs308p.png" alt=""></mj-image>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text padding="0" mj-class="T24-500" line-height="28px"><span style="text-transform:uppercase;">gs308p</span></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">8 ports <strong>Gigabit dont 4 PoE</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Budget PoE :</strong> 53 W</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Non manageable</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Garantie :</strong> 3 ans</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Référence :</strong> GS308P-100EUS</mj-text>
+          <mj-text padding="0" mj-class="T24-500 cP" line-height="28px"><span style="text-transform:uppercase;">gs308p</span></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">8 ports <strong>Gigabit dont 4 PoE</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Budget PoE :</strong> 53 W</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Non manageable</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Garantie :</strong> 3 ans</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cP" line-height="20px"><strong>Référence :</strong> GS308P-100EUS</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
-        <mj-button>retrouvez toutes nos offres sur le switching poe</mj-button>
+        <mj-button mj-class="bgP">retrouvez toutes nos offres sur le switching poe</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
