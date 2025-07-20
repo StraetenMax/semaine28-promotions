@@ -20,6 +20,7 @@
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" font-weight="400"/>
       <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" font-weight="400"/>
       <mj-class name="T11-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" font-weight="300"/>
+      <mj-class name="T9-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="9px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -41,7 +42,7 @@
           <mj-image align="left" padding="0" width="130px" src="./images/netgearBusinessW.png" alt="logo Netgear en noir"/>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
+          <mj-text align="right" padding="0" mj-class="T9-400" line-height="11px" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -137,15 +138,15 @@
         <mj-text padding="0" align="center" mj-class="T11-300 cT1" line-height="14px">* Offres spéciales partenaires valables chez les distributeurs officiels ALSO, INGRAM, EXERTIS, TECH DATA jusqu'au 24/09/2021 dans la limite des stocks facturables. Non cumulables avec d'autres offres spéciales. Ces offres peuvent être arrêtées à tout moment par NETGEAR. Prix d'achat revendeur promotionnels indicatifs, les distributeurs NETGEAR sont libres de fixer leur prix de revente.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column> 
-        <mj-image src="./images/netgearBusinessBlack.png" alt=""/>
+    <mj-section mj-class="bgW">
+      <mj-column width="100px" vertical-align="middle">
+        <mj-image padding="0" width="100px" src="./images/netgearBusinessBlack.png" alt=""/>
       </mj-column>
-      <mj-column>
+      <mj-column width="44%" vertical-align="middle">
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
-      <mj-column>
-        <mj-social>
+      <mj-column vertical-align="middle">
+        <mj-social padding="0" icon-size="35px" mode="horizontal">
           <mj-social-element src="./images/facebookIcon.png" href="https://www.facebook.com/NetgearBusiness"></mj-social-element>
           <mj-social-element src="./images/twitterIcon.png" href="https://twitter.com/NetgearBusiness"></mj-social-element>
           <mj-social-element src="./images/linkedinIcon.png" href="https://www.linkedin.com/company/netgearbusiness/"></mj-social-element>
@@ -153,13 +154,13 @@
         </mj-social>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">01 39 23 99 59 | <a href="#">reponserapide@netgear.com</a> | NETGEAR | 2 rue de Marly le roi 78150 LE CHESNAY</mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">Cet email est destiné à <a href="#">%%emailaddr%%</a>. Si vous ne souhaitez plus recevoir d'emails, vous pouvez vous désinscrire .</mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">Cet email a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px"><a href="#">Mise à jour de votre profil</a></mj-text>
+        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">01 39 23 99 59 | <a href="#">reponserapide@netgear.com</a> | NETGEAR | 2 rue de Marly le roi 78150 LE CHESNAY</mj-text>
+        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">Cet email est destiné à <a href="#">%%emailaddr%%</a>. Si vous ne souhaitez plus recevoir d'emails, vous pouvez vous désinscrire .</mj-text>
+        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">Cet email a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
+        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
+        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px"><a href="#">Mise à jour de votre profil</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
