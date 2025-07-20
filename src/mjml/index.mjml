@@ -49,36 +49,36 @@
         <mj-text padding="0" align="center" mj-class="T27-300" line-height="45px">3e trimestre</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationWAX214.png" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Un WiFi puissant et abordable</mj-text>
-        <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. <strong>Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</strong></mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300 cB" line-height="42px">Un WiFi puissant et abordable</mj-text>
+        <mj-text padding="0" align="center" mj-class="T14-400 cT1" line-height="18px">Des TPE aux PME, NETGEAR propose une gamme de produits WiFi qui fournit des connexions ultra-rapides à un tarif abordable. <strong>Déployez un WiFi professionnel, sécurisé et fiable avec NETGEAR.</strong></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-group width="100%">
         <mj-column vertical-align="middle">
           <mj-image src="./images/wax214.png" alt=""/>
         </mj-column>
         <mj-column vertical-align="middle">
-          <mj-text padding="0" mj-class="T24-500" line-height="28px"><span style="text-transform:uppercase;">wax124</span></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>WiFi 6 AX1800</strong> 1.8 Gbit/s</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Dual band</strong> (2.4 GHz et 5.0 GHz)</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Port Ethernet <strong>Gigabit</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px">Alimentable en <strong>PoE</strong></mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Garantie :</strong> 5ans</mj-text>
-          <mj-text padding="0" mj-class="T14-400" line-height="20px"><strong>Référence :</strong> WAX214-100EUS</mj-text>
+          <mj-text padding="0" mj-class="T24-500 cB" line-height="28px"><span style="text-transform:uppercase;">wax124</span></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>WiFi 6 AX1800</strong> 1.8 Gbit/s</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Dual band</strong> (2.4 GHz et 5.0 GHz)</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">Port Ethernet <strong>Gigabit</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px">Alimentable en <strong>PoE</strong></mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Garantie :</strong> 5ans</mj-text>
+          <mj-text padding="0" mj-class="T14-400 cT1" line-height="20px"><strong>Référence :</strong> WAX214-100EUS</mj-text>
         </mj-column>
       </mj-group>
       <mj-column width="100%">
-        <mj-button>retrouvez toutes nos offres wifi</mj-button>
+        <mj-button mj-class="bgB">retrouvez toutes nos offres wifi</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationGS108E.png" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T35-300" line-height="42px">Des Switches de pointe</mj-text>
+        <mj-text padding="0" align="center" mj-class="T35-300 cB" line-height="42px">Des Switches de pointe</mj-text>
         <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px"><strong>Les switches NETGEAR non manageables sont les plus populaires</strong> auprès des petites entreprises. Au cours des 25 dernières années, nous avons vendu plusieurs millions de switches, dans le monde entier. Nos clients apprécient la fiabilité, la qualité de fabrication, la facilité d'installation et la rentabilité.</mj-text>
         <mj-text padding="0" align="center" mj-class="T14-400" line-height="18px"><strong>Les switches Web manageables NETGEAR offrent des fonctionnalités avancées de niveau 2.</strong> Ils sont conçus pour les réseaux convergents où les données comme la voix ou la vidéo sont routées via une plateforme unique. Les fonctionnalités ACL, la QoS, l'agrégation de lien LACP et le protocole STP garantissent un environnement sécurisé & haut débit pour les besoins réseau de l'entreprise.</mj-text>
       </mj-column>
