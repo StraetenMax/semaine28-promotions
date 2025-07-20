@@ -14,8 +14,6 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" font-weight="300"/>
       <mj-class name="T27-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="27px" font-weight="300"/>
       <mj-class name="T24-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" font-weight="500"/>
@@ -155,11 +153,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">01 39 23 99 59 | reponserapide@netgear.com | NETGEAR | 2 rue de Marly le roi 78150 LE CHESNAY</mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">Cet email est destiné à %%emailaddr%% . Si vous ne souhaitez plus recevoir d'emails, vous pouvez vous désinscrire .</mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">Cet email a été envoyé par : %%Member_Busname%%</mj-text>
+        <mj-text padding="0" mj-class="T12-400" line-height="13px">01 39 23 99 59 | <a href="#">reponserapide@netgear.com</a> | NETGEAR | 2 rue de Marly le roi 78150 LE CHESNAY</mj-text>
+        <mj-text padding="0" mj-class="T12-400" line-height="13px">Cet email est destiné à <a href="#">%%emailaddr%%</a>. Si vous ne souhaitez plus recevoir d'emails, vous pouvez vous désinscrire .</mj-text>
+        <mj-text padding="0" mj-class="T12-400" line-height="13px">Cet email a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
         <mj-text padding="0" mj-class="T12-400" line-height="13px">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
-        <mj-text padding="0" mj-class="T12-400" line-height="13px">Mise à jour de votre profil</mj-text>
+        <mj-text padding="0" mj-class="T12-400" line-height="13px"><a href="#">Mise à jour de votre profil</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
