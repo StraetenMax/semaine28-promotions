@@ -160,30 +160,32 @@
         <mj-text padding="14px 0" align="center" mj-class="T11-300 cT1" line-height="14px">* Offres spéciales partenaires valables chez les distributeurs officiels ALSO, INGRAM, EXERTIS, TECH DATA jusqu'au 24/09/2021 dans la limite des stocks facturables. Non cumulables avec d'autres offres spéciales. Ces offres peuvent être arrêtées à tout moment par NETGEAR. Prix d'achat revendeur promotionnels indicatifs, les distributeurs NETGEAR sont libres de fixer leur prix de revente.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgW">
-      <mj-column width="100px" vertical-align="middle">
-        <mj-image padding="0" width="100px" src="./images/netgearBusinessBlack.png" alt=""/>
-      </mj-column>
-      <mj-column width="44%" vertical-align="middle">
-        <mj-spacer height="20px"></mj-spacer>
-      </mj-column>
-      <mj-column vertical-align="middle">
-        <mj-social padding="0" icon-size="27px" mode="horizontal">
-          <mj-social-element src="./images/facebookIcon.png" href="https://www.facebook.com/NetgearBusiness"></mj-social-element>
-          <mj-social-element src="./images/twitterIcon.png" href="https://twitter.com/NetgearBusiness"></mj-social-element>
-          <mj-social-element src="./images/linkedinIcon.png" href="https://www.linkedin.com/company/netgearbusiness/"></mj-social-element>
-          <mj-social-element src="./images/youtubeIcon.png" href="https://www.youtube.com/user/NETGEAR"></mj-social-element>
-        </mj-social>
-      </mj-column>
-    </mj-section>
-    <mj-section mj-class="bgW">
-      <mj-column>
-        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">01 39 23 99 59 | <a href="#">reponserapide@netgear.com</a> | NETGEAR | 2 rue de Marly le roi 78150 LE CHESNAY</mj-text>
-        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">Cet email est destiné à <a href="#">%%emailaddr%%</a>. Si vous ne souhaitez plus recevoir d'emails, vous pouvez vous désinscrire .</mj-text>
-        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">Cet email a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
-        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
-        <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px"><a href="#">Mise à jour de votre profil</a></mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper padding="30px 28px 20px 31px" mj-class="bgW">
+      <mj-section mj-class="bgW" padding="0" padding-bottom="36px">
+        <mj-column width="100px" vertical-align="middle">
+          <mj-image padding="0" width="100px" src="./images/netgearBusinessBlack.png" alt=""/>
+        </mj-column>
+        <mj-column width="51%" vertical-align="middle">
+          <mj-spacer height="15px"></mj-spacer>
+        </mj-column>
+        <mj-column vertical-align="middle" padding="0">
+          <mj-social padding="0" icon-size="27px" mode="horizontal">
+            <mj-social-element src="./images/facebookIcon.png" href="https://www.facebook.com/NetgearBusiness"></mj-social-element>
+            <mj-social-element src="./images/twitterIcon.png" href="https://twitter.com/NetgearBusiness"></mj-social-element>
+            <mj-social-element src="./images/linkedinIcon.png" href="https://www.linkedin.com/company/netgearbusiness/"></mj-social-element>
+            <mj-social-element src="./images/youtubeIcon.png" href="https://www.youtube.com/user/NETGEAR"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="bgW" padding="0">
+        <mj-column>
+          <mj-text padding="0" padding-bottom="15px" mj-class="T12-400 cT1" line-height="13px">01 39 23 99 59 | <a href="#">reponserapide@netgear.com</a> | NETGEAR | 2 rue de Marly le roi 78150 LE CHESNAY</mj-text>
+          <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">Cet email est destiné à <a href="#">%%emailaddr%%</a>. Si vous ne souhaitez plus recevoir d'emails, vous pouvez vous désinscrire .</mj-text>
+          <mj-text padding="0" mj-class="T12-400 cT1" line-height="13px">Cet email a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
+          <mj-text padding="0" padding-bottom="15px" mj-class="T12-400 cT1" line-height="13px">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
+          <mj-text padding="0" padding-bottom="20px" mj-class="T12-400 cT1" line-height="13px"><a href="#">Mise à jour de votre profil</a></mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
   </mj-body>
 </mjml>
